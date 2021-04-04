@@ -1,7 +1,7 @@
 package main
 
 import (
-	proto "../proto"
+	proto "github.com/FreeFlyXiaoMa/grpc_demo/proto"
 	"context"
 	"fmt"
 	"google.golang.org/grpc"

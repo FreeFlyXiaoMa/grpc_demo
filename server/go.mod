@@ -4,6 +4,6 @@ go 1.15
 
 require (
 	google.golang.org/grpc v1.36.1
-	github.com/FreeFlyXiaoMa/grpc_demo/proto v1.2.3
+	github.com/FreeFlyXiaoMa/grpc_demo/proto
 
 )
